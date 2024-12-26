@@ -1,3 +1,11 @@
-[gd_scene format=3 uid="uid://cip4ptufiqeag"]
+[gd_scene format=3 uid="uid://bu051cuv2moqo"]
 
-[node name="main_scene" type="Node2D"]
+[node name="menu" type="Node2D"]
+
+[node name="Label" type="Label" parent="."]
+offset_left = 179.0
+offset_top = 230.0
+offset_right = 1055.0
+offset_bottom = 464.0
+theme_override_font_sizes/font_size = 50
+text = "c,mskgl;meagkrtmglktmgl;rtghm;lkh"
