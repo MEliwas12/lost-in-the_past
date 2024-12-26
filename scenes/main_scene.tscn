@@ -1,3 +1,21 @@
-[gd_scene format=3 uid="uid://cip4ptufiqeag"]
+[gd_scene format=3 uid="uid://bu051cuv2moqo"]
 
-[node name="main_scene" type="Node2D"]
+[node name="menu" type="Node2D"]
+
+[node name="Label2" type="Label" parent="."]
+anchors_preset = -1
+anchor_right = 0.897
+anchor_bottom = 1.357
+offset_left = 261.0
+offset_top = 270.0
+offset_right = 853.0
+offset_bottom = 510.0
+text = "fhbdfghcgjmgcfmkgjckjgk"
+
+[node name="Label" type="Label" parent="."]
+offset_left = 131.0
+offset_top = 57.0
+offset_right = 1007.0
+offset_bottom = 291.0
+theme_override_font_sizes/font_size = 50
+text = "c,mskgl;meagkrtmglktmgl;rtghm;lkh"
